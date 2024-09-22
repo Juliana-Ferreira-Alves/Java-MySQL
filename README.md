@@ -26,10 +26,10 @@ senha varchar (xxxx) not null
 Os comandos que descrevem a tabela: **describe (nome da tabela); e desc tbusuarios;**
 
 <h2>CRUD</h2>
-<h3>create -> Insert</h3>
-<h3>read -> select</h3>
-<h3>update -> update</h3>
-<h3>delete -> delete</h3>
+<h3>CREATE -> Insert</h3>
+<h3>READ -> select</h3>
+<h3>UPDATE -> update</h3>
+<h3>DELETE -> delete</h3>
 
 
 
